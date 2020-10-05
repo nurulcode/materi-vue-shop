@@ -1,0 +1,16 @@
+Untuk mengatur link aktif di vue, kita perlu set css di folder  assets/css/main.css
+
+kemudia atur style, ini hanya contoh kamu bisa atur sesuai keperluan masing
+
+.router-link-exact-active {
+    font-weight: bold;
+    color: black;
+}
+
+selanjutnya jangan lupa import cssnya di file main.js
+import './assets/css/main.css'
+
+// fonts
+
+montserrat
+

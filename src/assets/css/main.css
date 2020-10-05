@@ -1,0 +1,21 @@
+/* 
+    primary : #4EB883
+    secondary : #E9F9F4
+    ilustrasi : undraw.co
+    images : ubplash.com
+    fonsts : montserrat
+
+*/
+
+#app {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.router-link-exact-active {
+    font-weight: bold;
+    color: black;
+}
+
+.breadcrumb {
+    background-color: transparent;
+}
